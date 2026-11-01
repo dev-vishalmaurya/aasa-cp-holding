@@ -1,0 +1,3 @@
+# Ignore raw master footage (production website uses optimized videos in public/films)
+media-src
+.git
