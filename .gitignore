@@ -37,3 +37,5 @@ next-env.d.ts
 
 # Source stock masters (web encodes are generated into public/videos)
 /media-src
+
+.vercel
